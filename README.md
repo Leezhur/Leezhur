@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/HTML-FF7DB4?style=flat-square&logo=HTML&logoColor=white"/>
 </p>
 
+### My-state
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leezhur&show_icons=true&theme=radical)
 
 <!--
 **Leezhur/Leezhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
