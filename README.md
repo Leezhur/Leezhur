@@ -1,6 +1,9 @@
-### 👋  Hi there! I'm growing developer Suyoung Lee.🌷
+👋  Hi there! I'm growing developer Suyoung Lee.🌷
+
 I majored in Secretarial office management at high school in Seoul Korea.
+
 I am a growing developer.✨
+
 
 ### 💡Tech Stack💡
 ### Used at least Once
