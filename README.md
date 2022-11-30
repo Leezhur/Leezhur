@@ -1,11 +1,13 @@
-### Hi there 👋
+### 👋  Hi there! I'm growing developer Suyoung Lee.🌷
+I majored in Secretarial office management at high school in Seoul Korea.
+I am a growing developer.✨
+
+### 💡Tech Stack💡
+### Used at least Once
+
 
 <!--
 **Leezhur/Leezhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 💡Tech Stack💡
-### Used at least Once
-
 
 Here are some ideas to get you started:
 
